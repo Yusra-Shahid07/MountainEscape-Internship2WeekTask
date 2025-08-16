@@ -106,8 +106,8 @@ export default function Contact() {
         <div className="imagemain">
           <img src="/Assets/about main image.jpg" alt="Northern Wonders" />
         </div>
-        <div id="maintext">
-          We are a travel company focused on mountain adventures
+        <div id="contactmaintext">
+          Get in touch with us today!
         </div>
       </div>
 

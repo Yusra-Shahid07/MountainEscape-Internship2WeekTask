@@ -159,6 +159,7 @@ html{
     font-weight: 700;
     line-height: 1.2;
     letter-spacing: -0.02em;
+    font-family: 'Poppins';
 }
 #maintexthome {
     font-size: 4.5rem;
@@ -172,6 +173,21 @@ html{
     font-weight: 700;
     line-height: 1.2;
     letter-spacing: -0.02em;
+     font-family: 'Poppins';
+}
+#contactmaintext{
+   font-size: 5rem;
+    color: white; 
+    position: absolute;
+    top:4.5em;
+     left: 3%;
+     right:3%;
+    /* padding: 10% 5% 8% 5%; */
+    text-align: center;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    font-family: 'Poppins';
 }
 
 
@@ -1404,6 +1420,7 @@ html{
   line-height: 7px;
   margin-left: 15px;
   margin-top: -1px; 
+  font-family: 'Poppins', sans-serif;
 }
 .iconheading{
   font-weight: bold;
