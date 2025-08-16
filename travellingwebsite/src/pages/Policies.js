@@ -131,7 +131,7 @@ export default function Policies() {
                   <p style={styles.paragraph}>
                     If you have any questions about this Privacy Policy, please contact us at:
                     <br />Email: privacy@mountainescape.com
-                    <br />Phone: +92-XXX-XXXXXXX
+                    <br />Phone: +92 300 1234862
                     <br />Address: Mountain Escape HQ, Liberty Market, Gulberg, Lahore, Pakistan
                   </p>
                 </PolicySubsection>
@@ -212,7 +212,7 @@ export default function Policies() {
                   <p style={styles.paragraph}>
                     For questions regarding these terms, please contact us at:
                     <br />Email: legal@mountainescape.com
-                    <br />Phone: +92-XXX-XXXXXXX
+                    <br />Phone: +92 300 1234862
                   </p>
                 </PolicySubsection>
               </PolicySection>
@@ -311,7 +311,7 @@ export default function Policies() {
                   <p style={styles.paragraph}>
                     If you have any questions about our use of cookies, please contact us at:
                     <br />Email: cookies@mountainescape.com
-                    <br />Phone: +92-XXX-XXXXXXX
+                    <br />Phone: +92 300 1234862
                     <br />Address: Mountain Escape HQ, Liberty Market, Gulberg, Lahore, Pakistan
                   </p>
                 </PolicySubsection>
@@ -324,138 +324,6 @@ export default function Policies() {
   );
 }
 
-// const styles = {
-//   container: {
-//     minHeight: '100vh',
-//     backgroundColor: '#0f172a',
-//     color: '#ffffff'
-//   },
-//   header: {
-//     background: 'linear-gradient(135deg, #1e293b 0%, #0f172a 100%)',
-//     padding: '80px 20px',
-//     textAlign: 'center',
-//     position: 'relative',
-//     overflow: 'hidden'
-//   },
-//   headerContent: {
-//     maxWidth: '800px',
-//     margin: '0 auto',
-//     position: 'relative',
-//     zIndex: 2
-//   },
-//   mainTitle: {
-//     fontSize: '4rem',
-//     fontWeight: 'bold',
-//     marginBottom: '20px',
-//     background: 'linear-gradient(135deg, #ffffff, #ff8da1)',
-//     backgroundClip: 'text',
-//     WebkitBackgroundClip: 'text',
-//     WebkitTextFillColor: 'transparent',
-//     lineHeight: '1.2'
-//   },
-//   headerSubtitle: {
-//     fontSize: '1.4rem',
-//     color: '#cbd5e1',
-//     lineHeight: '1.6',
-//     margin: '0'
-//   },
-//   tabContainer: {
-//     backgroundColor: '#1e293b',
-//     padding: '20px 0',
-//     borderBottom: '1px solid rgba(255, 255, 255, 0.1)'
-//   },
-//   tabNav: {
-//     display: 'flex',
-//     justifyContent: 'center',
-//     gap: '0',
-//     maxWidth: '800px',
-//     margin: '0 auto',
-//     backgroundColor: 'rgba(255, 255, 255, 0.05)',
-//     borderRadius: '50px',
-//     padding: '8px',
-//     flexWrap: 'wrap'
-//   },
-//   tabButton: {
-//     padding: '15px 30px',
-//     border: 'none',
-//     borderRadius: '25px',
-//     fontSize: '16px',
-//     fontWeight: '600',
-//     cursor: 'pointer',
-//     transition: 'all 0.3s ease',
-//     flex: '1',
-//     minWidth: '150px'
-//   },
-//   activeTab: {
-//     backgroundColor: '#ff8da1',
-//     color: '#ffffff',
-//     boxShadow: '0 4px 15px rgba(255, 141, 161, 0.3)'
-//   },
-//   inactiveTab: {
-//     backgroundColor: 'transparent',
-//     color: '#cbd5e1'
-//   },
-//   contentArea: {
-//     padding: '60px 20px',
-//     maxWidth: '1000px',
-//     margin: '0 auto'
-//   },
-//   contentWrapper: {
-//     backgroundColor: 'rgba(255, 255, 255, 0.05)',
-//     backdropFilter: 'blur(10px)',
-//     borderRadius: '20px',
-//     padding: '40px',
-//     border: '1px solid rgba(255, 255, 255, 0.1)'
-//   },
-//   tabContent: {
-//     animation: 'fadeIn 0.5s ease-in-out'
-//   },
-//   lastUpdated: {
-//     fontSize: '14px',
-//     color: '#94a3b8',
-//     textAlign: 'right',
-//     marginBottom: '30px',
-//     fontStyle: 'italic'
-//   },
-//   policySection: {
-//     marginBottom: '40px'
-//   },
-//   sectionTitle: {
-//     fontSize: '2.5rem',
-//     fontWeight: 'bold',
-//     color: '#ff8da1',
-//     marginBottom: '20px',
-//     borderBottom: '2px solid rgba(255, 141, 161, 0.3)',
-//     paddingBottom: '10px'
-//   },
-//   subsection: {
-//     marginBottom: '30px'
-//   },
-//   subsectionTitle: {
-//     fontSize: '1.5rem',
-//     fontWeight: 'bold',
-//     color: '#ffffff',
-//     marginBottom: '15px',
-//     position: 'relative',
-//     paddingLeft: '20px'
-//   },
-//   paragraph: {
-//     fontSize: '16px',
-//     lineHeight: '1.7',
-//     color: '#e2e8f0',
-//     marginBottom: '15px',
-//     textAlign: 'justify'
-//   },
-//   list: {
-//     fontSize: '16px',
-//     lineHeight: '1.7',
-//     color: '#e2e8f0',
-//     paddingLeft: '20px',
-//     marginBottom: '15px'
-//   }
-// };
-
-
 
 
 
@@ -463,11 +331,11 @@ export default function Policies() {
 const styles = {
   container: {
     minHeight: '100vh',
-    backgroundColor: '#052e16', // Change karo
+    backgroundColor: '#052e16', 
     color: '#ffffff'
   },
   header: {
-    background: 'linear-gradient(135deg, #064e3b 0%, #052e16 100%)', // Change karo
+    background: 'linear-gradient(135deg, #064e3b 0%, #052e16 100%)', 
     padding: '80px 20px',
     textAlign: 'center',
     position: 'relative',
@@ -483,7 +351,7 @@ const styles = {
     fontSize: '4rem',
     fontWeight: 'bold',
     marginBottom: '20px',
-    background: 'linear-gradient(135deg, #ffffff, #10b981)', // Change karo
+    background: 'linear-gradient(135deg, #ffffff, #10b981)', 
     backgroundClip: 'text',
     WebkitBackgroundClip: 'text',
     WebkitTextFillColor: 'transparent',
@@ -491,14 +359,14 @@ const styles = {
   },
   headerSubtitle: {
     fontSize: '1.4rem',
-    color: '#d1fae5', // Change karo
+    color: '#d1fae5', 
     lineHeight: '1.6',
     margin: '0'
   },
   tabContainer: {
-    backgroundColor: '#064e3b', // Change karo
+    backgroundColor: '#064e3b', 
     padding: '20px 0',
-    borderBottom: '1px solid rgba(16, 185, 129, 0.2)' // Change karo
+    borderBottom: '1px solid rgba(16, 185, 129, 0.2)' 
   },
   tabNav: {
     display: 'flex',
@@ -506,7 +374,7 @@ const styles = {
     gap: '0',
     maxWidth: '800px',
     margin: '0 auto',
-    backgroundColor: 'rgba(16, 185, 129, 0.1)', // Change karo
+    backgroundColor: 'rgba(16, 185, 129, 0.1)',
     borderRadius: '50px',
     padding: '8px',
     flexWrap: 'wrap'
@@ -523,13 +391,13 @@ const styles = {
     minWidth: '150px'
   },
   activeTab: {
-    backgroundColor: '#10b981', // Change karo
+    backgroundColor: '#10b981',
     color: '#ffffff',
-    boxShadow: '0 4px 15px rgba(16, 185, 129, 0.4)' // Change karo
+    boxShadow: '0 4px 15px rgba(16, 185, 129, 0.4)' 
   },
   inactiveTab: {
     backgroundColor: 'transparent',
-    color: '#a7f3d0' // Change karo
+    color: '#a7f3d0' 
   },
   contentArea: {
     padding: '60px 20px',
@@ -537,18 +405,18 @@ const styles = {
     margin: '0 auto'
   },
   contentWrapper: {
-    backgroundColor: 'rgba(16, 185, 129, 0.08)', // Change karo
+    backgroundColor: 'rgba(16, 185, 129, 0.08)',
     backdropFilter: 'blur(10px)',
     borderRadius: '20px',
     padding: '40px',
-    border: '1px solid rgba(16, 185, 129, 0.15)' // Change karo
+    border: '1px solid rgba(16, 185, 129, 0.15)' 
   },
   tabContent: {
     animation: 'fadeIn 0.5s ease-in-out'
   },
   lastUpdated: {
     fontSize: '14px',
-    color: '#86efac', // Change karo
+    color: '#86efac',
     textAlign: 'right',
     marginBottom: '30px',
     fontStyle: 'italic'
@@ -559,9 +427,9 @@ const styles = {
   sectionTitle: {
     fontSize: '2.5rem',
     fontWeight: 'bold',
-    color: '#10b981', // Change karo
+    color: '#10b981',
     marginBottom: '20px',
-    borderBottom: '2px solid rgba(16, 185, 129, 0.4)', // Change karo
+    borderBottom: '2px solid rgba(16, 185, 129, 0.4)', 
     paddingBottom: '10px'
   },
   subsection: {
@@ -570,7 +438,7 @@ const styles = {
   subsectionTitle: {
     fontSize: '1.5rem',
     fontWeight: 'bold',
-    color: '#d1fae5', // Change karo
+    color: '#d1fae5', 
     marginBottom: '15px',
     position: 'relative',
     paddingLeft: '20px'
@@ -578,14 +446,14 @@ const styles = {
   paragraph: {
     fontSize: '16px',
     lineHeight: '1.7',
-    color: '#dcfce7', // Change karo
+    color: '#dcfce7', 
     marginBottom: '15px',
     textAlign: 'justify'
   },
   list: {
     fontSize: '16px',
     lineHeight: '1.7',
-    color: '#dcfce7', // Change karo
+    color: '#dcfce7', 
     paddingLeft: '20px',
     marginBottom: '15px'
   }

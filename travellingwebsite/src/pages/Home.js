@@ -63,7 +63,7 @@ export default function Home(props) {
         });
         destination.addEventListener("mouseleave", () => {
           destination.style.transform = `translateY(0px)`;
-          destination.style.backgroundColor = "#047857";
+          destination.style.background = "#047857";
           destination.style.boxShadow = "none";
         });
       }
@@ -76,7 +76,7 @@ export default function Home(props) {
         <div className="imagemain">
           <img src="./Assets/home image 5.jpg" alt="Main Tour" />
         </div>
-        <div id="maintext">Explore the Northern Wonders of Pakistan</div>
+        <div id="maintexthome">Explore the Northern Wonders of Pakistan</div>
       </div>
 
       {/* Destinations */}

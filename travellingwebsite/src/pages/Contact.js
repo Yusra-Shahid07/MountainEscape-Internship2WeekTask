@@ -7,19 +7,31 @@ export default function Contact() {
   const [subject, setSubject] = useState("");
 
   const styles = {
-    mapSection: { padding: "40px 0", textAlign: "center" },
-    mapHeading: { fontSize: "28px", fontWeight: "bold", marginBottom: "20px" },
-    mapContainer: { maxWidth: "1000px", margin: "0 auto" },
-    iframe: { border: "none", borderRadius: "8px" },
-    mapInfo: { marginTop: "20px" },
-    mapInfoCard: {
-      background: "#fff",
-      padding: "20px",
-      borderRadius: "8px",
-      boxShadow: "0 2px 8px rgba(0,0,0,0.1)"
+     mapSection: { 
+      padding: "40px 0 80px 0",
+      textAlign: "center",
+      background: "white",
+      marginBottom: "50px" 
     },
-    mapInfoTitle: { marginBottom: "10px", fontSize: "20px" },
-    mapInfoText: { margin: "5px 0" }
+    mapHeading: { 
+      fontSize: "32px", 
+      fontWeight: "bold", 
+      marginBottom: "25px", 
+      color: "#2c5530", 
+      letterSpacing: "1px"
+    },
+    mapContainer: { 
+      maxWidth: "1000px", 
+      margin: "0 auto",
+      marginBottom: "50px", 
+      paddingBottom: "30px" 
+    },
+    iframe: { 
+      border: "none", 
+      borderRadius: "8px",
+      boxShadow: "0 4px 12px rgba(0,0,0,0.15)", 
+      marginBottom: "30px" 
+    }
   };
 
   useEffect(() => {
@@ -219,7 +231,7 @@ export default function Contact() {
           </button>
         </div>
       </div>
-
+      <div className="wholemap">
       <div style={styles.mapSection}>
         <div style={styles.mapHeading}>Find Us Here</div>
         <div style={styles.mapContainer}>
@@ -233,6 +245,7 @@ export default function Contact() {
             referrerPolicy="no-referrer-when-downgrade"
           ></iframe>
         </div>
+      </div>
       </div>
     </div>
   );
